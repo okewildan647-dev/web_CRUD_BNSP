@@ -1,0 +1,15 @@
+
+@import "tailwindcss";
+
+/* Perintahkan Tailwind memindai file di dalam folder src */
+@source "./";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #4186cb;
+}
